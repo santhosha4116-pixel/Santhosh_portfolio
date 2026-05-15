@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color: #ffde59;
+}
+.container,{
+    padding: 40px;
+}
+.section-one{
+ font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+   margin-top: 20px;
+}
+.section-one__contant{
+    padding: 4px;
+    background-color: #ffde59;
+    display: inline-block;
+    margin-top: 5px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    
+}
+.section-two{
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  padding-top: 10px;
+  color: #191919;
+}
+.section-two__ders{
+     font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.section-three{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: white;
+  padding: 20px;
+  height: 200px;
+  margin-top: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  vertical-align: top;
+}
+.section-three__points li,.section-four li{
+    list-style-type: none;
+}
+
+.section-four {
+     font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+   height: 200px;
+  display: inline-block;
+  border-radius: 20px;
+  vertical-align: top;
+} 
+.section-four,.section-five{
+     font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+}
+
+  .section-five{
+     background-color: white;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 20px;
+  }
+.section-five a{
+  text-decoration: none;
+  font-weight: 700;
+  color: black;
+}
+ 
+
+
+
+
+
